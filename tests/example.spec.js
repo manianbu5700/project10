@@ -5,5 +5,9 @@ test('Validate Flikart', async ({ page }) => {
   await page.goto('https://www.flipkart.com/');
 
 });
+test('Validate Flikart', async ({ page }) => {
+  await page.goto('https://www.shopee.com/');
+
+});
 
 
