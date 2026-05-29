@@ -6,8 +6,9 @@ test('Validate Flikart', async ({ page }) => {
 
 });
 test('Validate Flikart', async ({ page }) => {
-  await page.goto('https://www.shopee.com/');
+  await page.goto('https://www.myntra.com/');
 
 });
+
 
 
